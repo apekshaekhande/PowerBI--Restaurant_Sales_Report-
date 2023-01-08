@@ -1,7 +1,7 @@
 # PowerBI--Restaurant_Sales_Report-
 ![Screenshot (129)](https://user-images.githubusercontent.com/113659344/210981971-a222505d-9968-442d-82c8-8f69c90a48ad.png)
 
-In this Powerbi Project i have analyze the data and put together a report to help us find opportunities to drive more sales and work more efficiently.
+In this Powerbi Project We have analyze the data and put together a report to help us find opportunities to drive more sales and work more efficiently.
 Things are going OK here at Plato's, but there's room for improvement.We've been collecting transacl data for the past year, but really haven't been able to put it to good use. 
 
 
