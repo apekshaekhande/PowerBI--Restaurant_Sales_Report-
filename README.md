@@ -59,10 +59,9 @@ Q6 Monthwise analysis of profit.
 
 #### 3) LINE CHART-
 
-![image](https://user-images.githubusercontent.com/113659344/211626756-934d1ea9-555b-4ec0-8117-0d5ff220a627.png)
+![image](https://user-images.githubusercontent.com/113659344/211628203-b3e63380-483c-45dc-ad2b-e6d9dfb3a047.png)
 
-### In above line chart I show Quantity orderd by month ,year and day basis. here I add hierarchy of date function we can change it into year ,month and day basis.
-### We can also use it by Quarterwise inshort we can see multiple outputs in single visual.
+####  In above line chart I show Quantity orderd by month ,year and day basis. here I add hierarchy of date function we can change it into year ,month and day basis. We can also use it by Quarterwise inshort we can see multiple outputs in single visual.
 
 
 
