@@ -57,7 +57,12 @@ Q6 Monthwise analysis of profit.
 ![image](https://user-images.githubusercontent.com/113659344/211625467-8d0fd215-6193-4ad4-9fea-c1710ed9aaba.png)
 #### Here I use DONUT CHART for showing Total sales of restaurant by category of pizza . It shows higher and lower sales by colour and lables.
 
+#### 3) LINE CHART-
 
+![image](https://user-images.githubusercontent.com/113659344/211626756-934d1ea9-555b-4ec0-8117-0d5ff220a627.png)
+
+### In above line chart I show Quantity orderd by month ,year and day basis. here I add hierarchy of date function we can change it into year ,month and day basis.
+### We can also use it by Quarterwise inshort we can see multiple outputs in single visual.
 
 
 
