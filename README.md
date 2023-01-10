@@ -47,6 +47,17 @@ Q6 Monthwise analysis of profit.
 ##### 12)pizza_name: Name of the pizza as shown in the menu.
 
 #### Lets see the visuals one by one
+## 1)BAR CHART-
 
-![image](https://user-images.githubusercontent.com/113659344/211621107-d9330f33-8579-4ee6-b21c-ca0367826e53.png)
+![image](https://user-images.githubusercontent.com/113659344/211625632-0accb9f6-e003-4109-8571-7e964d75e50d.png)
+
+#### Here I calcuate Total Orderd quantity per day - On the basis of this chart we conclude that which day in a week has more orders and we can arrange staff on the basis of that 
+
+### 2) DONUT CHART-
+![image](https://user-images.githubusercontent.com/113659344/211625467-8d0fd215-6193-4ad4-9fea-c1710ed9aaba.png)
+#### Here I use DONUT CHART for showing Total sales of restaurant by category of pizza . It shows higher and lower sales by colour and lables.
+
+
+
+
 
