@@ -63,10 +63,15 @@ Q6 Monthwise analysis of profit.
 
 #### In above line chart I show Quantity orderd by month ,year and day basis. here I add hierarchy of date function we can change it into year ,month and day basis. We can also use it by Quarterwise inshort we can see multiple outputs in single visual.
 
-### 3) BAR CHART-
+### 4) BAR CHART-
 ![image](https://user-images.githubusercontent.com/113659344/212560001-9bf30e2e-159f-4418-9e2e-c1dc437ef907.png)
+#### In above chart i explain pizza sales are more at what time like from chart we conclude that in Afternoon time is a buisiest time.
 
+### 5) BAR CHART-
 ![image](https://user-images.githubusercontent.com/113659344/212560040-203d182a-1b76-4a7c-bcdc-a9cc2b043cff.png)
+#### Above bar chart shows 3 top most highest selling pizza
+
+### 6)
 
 
 
