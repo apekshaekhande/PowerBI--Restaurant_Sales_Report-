@@ -68,10 +68,14 @@ Q6 Monthwise analysis of profit.
 #### In above chart i explain pizza sales are more at what time like from chart we conclude that in Afternoon time is a buisiest time.
 
 ### 5) BAR CHART-
-![image](https://user-images.githubusercontent.com/113659344/212560040-203d182a-1b76-4a7c-bcdc-a9cc2b043cff.png)
+![image](https://user-images.githubusercontent.com/113659344/212744772-dcf5ff1d-0810-4821-957b-c48342163aa8.png)
+
 #### Above bar chart shows 3 top most highest selling pizza
 
-### 6)
+### 6) BAR CHART-
+![image](https://user-images.githubusercontent.com/113659344/212744497-4ba39347-4d39-4f1a-90ee-a3739aa09e63.png)
+#### above bar chart shows 3 top less selling pizza
+
 
 
 
