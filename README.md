@@ -74,7 +74,7 @@ Q6 Monthwise analysis of profit.
 
 ### 6) BAR CHART-
 ![image](https://user-images.githubusercontent.com/113659344/212744497-4ba39347-4d39-4f1a-90ee-a3739aa09e63.png)
-#### above bar chart shows 3 top less selling pizza
+#### Above bar chart shows 3 top less selling pizza
 
 
 
