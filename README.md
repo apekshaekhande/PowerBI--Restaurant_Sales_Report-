@@ -76,8 +76,13 @@ Q6 Monthwise analysis of profit.
 ![image](https://user-images.githubusercontent.com/113659344/212744497-4ba39347-4d39-4f1a-90ee-a3739aa09e63.png)
 #### Above bar chart shows 3 top less selling pizza
 
+### 7) CARDS-
+![image](https://user-images.githubusercontent.com/113659344/212974956-8411641f-a3c5-4633-aaaa-abed668695b8.png)
+#### Above card shows Average order value and Total orders. The value of Cards can change by Slicers 
 
+### 8)SLICERS-
+#### ![image](https://user-images.githubusercontent.com/113659344/212976277-ab19d686-62e1-47b9-944c-b16f81b40056.png)
+![image](https://user-images.githubusercontent.com/113659344/212976744-f9265843-57f9-46e1-8f4c-a75949dabe95.png)
 
-
-
+#### Here I add two slicers for slicing visuals by size of pizza and month wise
 
